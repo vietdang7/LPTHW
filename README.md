@@ -22,6 +22,11 @@ In your terminal:
 2. Move or `cd` to the exercise folder that you wanted
 3. Run `python3 file_name.py`. For example: `python3 ex1.py`
 
+## Execise notes:
+1. Exercise 1:
+   - To print new line, we can use `print("\n")`
+   - In Python3, `print` is now a function
+
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`.
 I grealty appreciate for your contribution.

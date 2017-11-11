@@ -30,6 +30,9 @@ Please note: all exercise files are in "Exercises" folder.
 2. Exercise 2:
    - Use # for commenting in Python
    - Read code backward to check errors manually
+3. Exercise 3:
+   - Use math symbols and print in the same line with a string (seperate by a ",")
+   - "%" is a modulus
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`.

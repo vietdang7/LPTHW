@@ -7,8 +7,8 @@ Mainly for learning purpose. I will also write note for every exercise (if it is
 
 ## Getting Started
 ### Prerequisites
-You need to have 
-1. [`Python3`](https://www.python.org/downloads/) 
+You need to have
+1. [`Python3`](https://www.python.org/downloads/)
 2. Code editor like: [Atom](https://atom.io/)
 
 ### Installation
@@ -21,11 +21,15 @@ In your terminal:
 1. Move or `cd` to `LPTHW` (where you've just cloned the project)
 2. Move or `cd` to the exercise folder that you wanted
 3. Run `python3 file_name.py`. For example: `python3 ex1.py`
+Please note: all exercise files are in "Exercises" folder.
 
 ## Exercise notes:
 1. Exercise 1:
    - To print new line, we can use `print("\n")`
    - In Python3, `print` is now a function
+2. Exercise 2:
+   - Use # for commenting in Python
+   - Read code backward to check errors manually
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`.

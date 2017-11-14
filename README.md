@@ -33,6 +33,10 @@ Please note: all exercise files are in "Exercises" folder.
 3. Exercise 3:
    - Use math symbols and print in the same line with a string (seperate by a ",")
    - "%" is a modulus
+4. Exercise 4:
+   - There will be space between string and variable when use print().
+   For example: `print("There are",cars,"cars available.")` -> There are 100 cars available.
+   To avoid space, we can use concatenation `+` or `print 'Value is "%d"' % value`
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`.

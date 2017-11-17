@@ -1,4 +1,4 @@
-my_name = 'Viet Dang'
+name = 'Viet Dang'
 my_age = 31
 my_height = 165 #cm
 my_weight = 80 #kg
@@ -6,7 +6,7 @@ my_eyes = 'Brown'
 my_teeth = 'White'
 my_hair = "Black"
 
-print(f"Let's talk about {my_name}.")
+print(f"Let's talk about {name}.")
 print(f"He's {my_height} cms tall.")
 print(f"He's {my_weight} kgs heavy.")
 print("Actually it's overweight.")

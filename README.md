@@ -37,6 +37,8 @@ Please note: all exercise files are in "Exercises" folder.
    - There will be space between string and variable when use print().
    For example: `print("There are",cars,"cars available.")` -> There are 100 cars available.
    To avoid space, we can use concatenation `+` or `print 'Value is "%d"' % value`
+5. Exercise 5:
+   - To format string and add variables inside, we will need to user `print(f"string {variableName}")`
 
 ## Contribution
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`.
